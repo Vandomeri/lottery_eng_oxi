@@ -176,7 +176,7 @@ h6 {
   background: url(../img/first__bg.jpg);
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: center top;
 }
 
 @media (max-width: 800px) {
@@ -407,7 +407,7 @@ h6 {
   padding: 30px 0;
 }
 
-#timer7bf872d640406dc351c6ee4fa1db5cf5 {
+#timer58ac4d439271b4873457db3282d25f54 {
   margin-bottom: 40px;
   min-width: 280px !important;
   height: inherit !important;
